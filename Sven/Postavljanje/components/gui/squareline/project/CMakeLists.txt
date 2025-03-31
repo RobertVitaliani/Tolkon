@@ -1,0 +1,9 @@
+SET(SOURCES screens/ui_Main_menu.c
+    screens/ui_LEDtest.c
+    screens/ui_Dijagnostika.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c)
+
+add_library(ui ${SOURCES})

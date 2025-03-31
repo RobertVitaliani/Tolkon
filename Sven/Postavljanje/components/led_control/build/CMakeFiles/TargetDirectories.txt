@@ -1,0 +1,2 @@
+C:/Users/Sven/Desktop/Tolkon/Postavljanje/components/led_control/build/CMakeFiles/edit_cache.dir
+C:/Users/Sven/Desktop/Tolkon/Postavljanje/components/led_control/build/CMakeFiles/rebuild_cache.dir
