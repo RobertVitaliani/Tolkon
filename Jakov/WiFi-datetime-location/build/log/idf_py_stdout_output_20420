@@ -1,0 +1,40 @@
+[0/1] Re-running CMake...
+-- ccache will be used for faster recompilation
+-- Project is not inside a git repository, or git repository has no commits; will not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32
+-- Project sdkconfig file D:/Jakov Begovic/Desk/WES kod/za-devkit/WiFi-datetime-place/sdkconfig
+-- App "WiFi-datetime-place" version: 1
+-- Adding linker script D:/Jakov Begovic/Desk/WES kod/za-devkit/WiFi-datetime-place/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script D:/espressif/esp/v5.0.2/esp-idf/components/esp_system/ld/esp32/sections.ld.in
+-- Adding linker script D:/espressif/esp/v5.0.2/esp-idf/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script D:/espressif/esp/v5.0.2/esp-idf/components/esp_rom/esp32/ld/esp32.rom.api.ld
+-- Adding linker script D:/espressif/esp/v5.0.2/esp-idf/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script D:/espressif/esp/v5.0.2/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-data.ld
+-- Adding linker script D:/espressif/esp/v5.0.2/esp-idf/components/esp_rom/esp32/ld/esp32.rom.syscalls.ld
+-- Adding linker script D:/espressif/esp/v5.0.2/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-funcs.ld
+-- Adding linker script D:/espressif/esp/v5.0.2/esp-idf/components/soc/esp32/ld/esp32.peripherals.ld
+-- Components: app_trace app_update bootloader bootloader_support bt cmock console cxx driver efuse esp-tls esp_adc esp_app_format esp_common esp_eth esp_event esp_gdbstub esp_hid esp_http_client esp_http_server esp_https_ota esp_https_server esp_hw_support esp_lcd esp_local_ctrl esp_netif esp_partition esp_phy esp_pm esp_psram esp_ringbuf esp_rom esp_system esp_timer esp_wifi espcoredump esptool_py fatfs freertos hal heap http_parser idf_test ieee802154 json log lwip main mbedtls mqtt newlib nvs_flash openthread partition_table perfmon protobuf-c protocomm pthread sdmmc soc spi_flash spiffs tcp_transport ulp unity usb vfs wear_levelling wifi_provisioning wpa_supplicant xtensa
+-- Component paths: D:/espressif/esp/v5.0.2/esp-idf/components/app_trace D:/espressif/esp/v5.0.2/esp-idf/components/app_update D:/espressif/esp/v5.0.2/esp-idf/components/bootloader D:/espressif/esp/v5.0.2/esp-idf/components/bootloader_support D:/espressif/esp/v5.0.2/esp-idf/components/bt D:/espressif/esp/v5.0.2/esp-idf/components/cmock D:/espressif/esp/v5.0.2/esp-idf/components/console D:/espressif/esp/v5.0.2/esp-idf/components/cxx D:/espressif/esp/v5.0.2/esp-idf/components/driver D:/espressif/esp/v5.0.2/esp-idf/components/efuse D:/espressif/esp/v5.0.2/esp-idf/components/esp-tls D:/espressif/esp/v5.0.2/esp-idf/components/esp_adc D:/espressif/esp/v5.0.2/esp-idf/components/esp_app_format D:/espressif/esp/v5.0.2/esp-idf/components/esp_common D:/espressif/esp/v5.0.2/esp-idf/components/esp_eth D:/espressif/esp/v5.0.2/esp-idf/components/esp_event D:/espressif/esp/v5.0.2/esp-idf/components/esp_gdbstub D:/espressif/esp/v5.0.2/esp-idf/components/esp_hid D:/espressif/esp/v5.0.2/esp-idf/components/esp_http_client D:/espressif/esp/v5.0.2/esp-idf/components/esp_http_server D:/espressif/esp/v5.0.2/esp-idf/components/esp_https_ota D:/espressif/esp/v5.0.2/esp-idf/components/esp_https_server D:/espressif/esp/v5.0.2/esp-idf/components/esp_hw_support D:/espressif/esp/v5.0.2/esp-idf/components/esp_lcd D:/espressif/esp/v5.0.2/esp-idf/components/esp_local_ctrl D:/espressif/esp/v5.0.2/esp-idf/components/esp_netif D:/espressif/esp/v5.0.2/esp-idf/components/esp_partition D:/espressif/esp/v5.0.2/esp-idf/components/esp_phy D:/espressif/esp/v5.0.2/esp-idf/components/esp_pm D:/espressif/esp/v5.0.2/esp-idf/components/esp_psram D:/espressif/esp/v5.0.2/esp-idf/components/esp_ringbuf D:/espressif/esp/v5.0.2/esp-idf/components/esp_rom D:/espressif/esp/v5.0.2/esp-idf/components/esp_system D:/espressif/esp/v5.0.2/esp-idf/components/esp_timer D:/espressif/esp/v5.0.2/esp-idf/components/esp_wifi D:/espressif/esp/v5.0.2/esp-idf/components/espcoredump D:/espressif/esp/v5.0.2/esp-idf/components/esptool_py D:/espressif/esp/v5.0.2/esp-idf/components/fatfs D:/espressif/esp/v5.0.2/esp-idf/components/freertos D:/espressif/esp/v5.0.2/esp-idf/components/hal D:/espressif/esp/v5.0.2/esp-idf/components/heap D:/espressif/esp/v5.0.2/esp-idf/components/http_parser D:/espressif/esp/v5.0.2/esp-idf/components/idf_test D:/espressif/esp/v5.0.2/esp-idf/components/ieee802154 D:/espressif/esp/v5.0.2/esp-idf/components/json D:/espressif/esp/v5.0.2/esp-idf/components/log D:/espressif/esp/v5.0.2/esp-idf/components/lwip D:/Jakov Begovic/Desk/WES kod/za-devkit/WiFi-datetime-place/main D:/espressif/esp/v5.0.2/esp-idf/components/mbedtls D:/espressif/esp/v5.0.2/esp-idf/components/mqtt D:/espressif/esp/v5.0.2/esp-idf/components/newlib D:/espressif/esp/v5.0.2/esp-idf/components/nvs_flash D:/espressif/esp/v5.0.2/esp-idf/components/openthread D:/espressif/esp/v5.0.2/esp-idf/components/partition_table D:/espressif/esp/v5.0.2/esp-idf/components/perfmon D:/espressif/esp/v5.0.2/esp-idf/components/protobuf-c D:/espressif/esp/v5.0.2/esp-idf/components/protocomm D:/espressif/esp/v5.0.2/esp-idf/components/pthread D:/espressif/esp/v5.0.2/esp-idf/components/sdmmc D:/espressif/esp/v5.0.2/esp-idf/components/soc D:/espressif/esp/v5.0.2/esp-idf/components/spi_flash D:/espressif/esp/v5.0.2/esp-idf/components/spiffs D:/espressif/esp/v5.0.2/esp-idf/components/tcp_transport D:/espressif/esp/v5.0.2/esp-idf/components/ulp D:/espressif/esp/v5.0.2/esp-idf/components/unity D:/espressif/esp/v5.0.2/esp-idf/components/usb D:/espressif/esp/v5.0.2/esp-idf/components/vfs D:/espressif/esp/v5.0.2/esp-idf/components/wear_levelling D:/espressif/esp/v5.0.2/esp-idf/components/wifi_provisioning D:/espressif/esp/v5.0.2/esp-idf/components/wpa_supplicant D:/espressif/esp/v5.0.2/esp-idf/components/xtensa
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Jakov Begovic/Desk/WES kod/za-devkit/WiFi-datetime-place/build
+[1/10] Performing build step for 'bootloader'
+[1/1] cmd.exe /C "cd /D "D:\Jakov Begovic\Desk\WES kod\za-devkit\WiFi-datetime-place\build\bootloader\esp-idf\esptool_py" && d:\espressif\.espressif\python_env\idf5.0_py3.11_env\Scripts\python.exe D:/espressif/esp/v5.0.2/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 "D:/Jakov Begovic/Desk/WES kod/za-devkit/WiFi-datetime-place/build/bootloader/bootloader.bin""
+Bootloader binary size 0x6700 bytes. 0x900 bytes (8%) free.
+[2/8] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj
+[3/8] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/wifi_controller.c.obj
+In file included from D:/Jakov Begovic/Desk/WES kod/za-devkit/WiFi-datetime-place/main/wifi_controller.c:22:
+D:/espressif/esp/v5.0.2/esp-idf/components/lwip/include/apps/sntp/sntp.h:9:2: warning: #warning "sntp.h in IDF's lwip port folder is deprecated. Please include esp_sntp.h" [-Wcpp]
+    9 | #warning "sntp.h in IDF's lwip port folder is deprecated. Please include esp_sntp.h"
+      |  ^~~~~~~
+[4/8] Linking C static library esp-idf\main\libmain.a
+[5/8] Generating ld/sections.ld
+[6/8] Linking CXX executable WiFi-datetime-place.elf
+[7/8] Generating binary image from built executable
+esptool.py v4.7.0
+Creating esp32 image...
+Merged 25 ELF sections
+Successfully created esp32 image.
+Generated D:/Jakov Begovic/Desk/WES kod/za-devkit/WiFi-datetime-place/build/WiFi-datetime-place.bin
+[8/8] cmd.exe /C "cd /D "D:\Jakov Begovic\Desk\WES kod\za-devkit\WiFi-datetime-place\build\esp-idf\esptool_py" && d:\espressif\.espressif\python_env\idf5.0_py3.11_env\Scripts\python.exe D:/espressif/esp/v5.0.2/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app "D:/Jakov Begovic/Desk/WES kod/za-devkit/WiFi-datetime-place/build/partition_table/partition-table.bin" "D:/Jakov Begovic/Desk/WES kod/za-devkit/WiFi-datetime-place/build/WiFi-datetime-place.bin""
+WiFi-datetime-place.bin binary size 0xd6160 bytes. Smallest app partition is 0x100000 bytes. 0x29ea0 bytes (16%) free.

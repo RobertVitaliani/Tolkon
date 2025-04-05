@@ -1,0 +1,17 @@
+[1/11] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/i2c_control.c.obj
+[2/11] Performing build step for 'bootloader'
+[1/1] cmd.exe /C "cd /D "D:\Jakov Begovic\Desk\WES kod\TolkonN\Tolkon\Robert\veml7700_test\build\bootloader\esp-idf\esptool_py" && d:\espressif\.espressif\python_env\idf5.0_py3.11_env\Scripts\python.exe D:/espressif/esp/v5.0.2/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 "D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test/build/bootloader/bootloader.bin""
+Bootloader binary size 0x6700 bytes. 0x900 bytes (8%) free.
+[3/9] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj
+[4/9] Linking C static library esp-idf\main\libmain.a
+[5/9] Generating ld/sections.ld
+[6/9] Building C object CMakeFiles/veml7700_test.elf.dir/project_elf_src_esp32.c.obj
+[7/9] Linking CXX executable veml7700_test.elf
+[8/9] Generating binary image from built executable
+esptool.py v4.7.0
+Creating esp32 image...
+Merged 2 ELF sections
+Successfully created esp32 image.
+Generated D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test/build/veml7700_test.bin
+[9/9] cmd.exe /C "cd /D "D:\Jakov Begovic\Desk\WES kod\TolkonN\Tolkon\Robert\veml7700_test\build\esp-idf\esptool_py" && d:\espressif\.espressif\python_env\idf5.0_py3.11_env\Scripts\python.exe D:/espressif/esp/v5.0.2/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app "D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test/build/partition_table/partition-table.bin" "D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test/build/veml7700_test.bin""
+veml7700_test.bin binary size 0x31ab0 bytes. Smallest app partition is 0x100000 bytes. 0xce550 bytes (81%) free.

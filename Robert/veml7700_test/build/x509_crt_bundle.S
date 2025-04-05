@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/rober/Desktop/Provjera/veml7700_test/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

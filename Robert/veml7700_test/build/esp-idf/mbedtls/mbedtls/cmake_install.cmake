@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/rober/esp/v5.0.2/esp-idf/components/mbedtls/mbedtls
+# Install script for directory: D:/espressif/esp/v5.0.2/esp-idf/components/mbedtls/mbedtls
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,14 +34,14 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/rober/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/espressif/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/rober/Desktop/Provjera/veml7700_test/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
-  include("C:/Users/rober/Desktop/Provjera/veml7700_test/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
-  include("C:/Users/rober/Desktop/Provjera/veml7700_test/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
+  include("D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
+  include("D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
+  include("D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
 
 endif()
 

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/rober/Desktop/Provjera/veml7700_test
+# Install script for directory: D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,12 +34,12 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/rober/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/espressif/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/rober/Desktop/Provjera/veml7700_test/build/esp-idf/cmake_install.cmake")
+  include("D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test/build/esp-idf/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/rober/Desktop/Provjera/veml7700_test/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Jakov Begovic/Desk/WES kod/TolkonN/Tolkon/Robert/veml7700_test/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

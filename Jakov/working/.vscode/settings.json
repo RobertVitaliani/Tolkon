@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "d:\\espressif\\esp\\v5.0.2\\esp-idf",
+  "idf.pythonInstallPath": "d:\\espressif\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": ["board/esp32-bridge.cfg"],
+  "idf.toolsPathWin": "d:\\espressif\\.espressif",
+  "files.associations": {
+    "wifi.h": "c",
+    "wifi_controller.h": "c",
+    "i2c_control.h": "c"
+  },
+  "idf.portWin": "COM16"
+}
