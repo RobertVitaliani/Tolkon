@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/rober/Desktop/veml7700ALS/veml7700als/build/CMakeFiles/bootloader
+C:/Users/rober/Desktop/veml7700ALS/veml7700als/build/CMakeFiles/bootloader.rule
+C:/Users/rober/Desktop/veml7700ALS/veml7700als/build/CMakeFiles/bootloader-complete.rule
+C:/Users/rober/Desktop/veml7700ALS/veml7700als/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/rober/Desktop/veml7700ALS/veml7700als/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/rober/Desktop/veml7700ALS/veml7700als/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/rober/Desktop/veml7700ALS/veml7700als/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/rober/Desktop/veml7700ALS/veml7700als/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/rober/Desktop/veml7700ALS/veml7700als/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/rober/Desktop/veml7700ALS/veml7700als/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
