@@ -1,0 +1,15 @@
+[1/9] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/veml7700_test.c.obj
+[2/9] Linking C static library esp-idf\main\libmain.a
+[3/9] Performing build step for 'bootloader'
+[1/1] cmd.exe /C "cd /D C:\Users\rober\Desktop\Provjera\veml7700_test\build\bootloader\esp-idf\esptool_py && C:\Users\rober\.espressif\python_env\idf5.0_py3.11_env\Scripts\python.exe C:/Users/rober/esp/v5.0.2/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 C:/Users/rober/Desktop/Provjera/veml7700_test/build/bootloader/bootloader.bin"
+Bootloader binary size 0x6700 bytes. 0x900 bytes (8%) free.
+[4/7] Generating ld/sections.ld
+[5/7] Linking CXX executable veml7700_test.elf
+[6/7] Generating binary image from built executable
+esptool.py v4.7.0
+Creating esp32 image...
+Merged 2 ELF sections
+Successfully created esp32 image.
+Generated C:/Users/rober/Desktop/Provjera/veml7700_test/build/veml7700_test.bin
+[7/7] cmd.exe /C "cd /D C:\Users\rober\Desktop\Provjera\veml7700_test\build\esp-idf\esptool_py && C:\Users\rober\.espressif\python_env\idf5.0_py3.11_env\Scripts\python.exe C:/Users/rober/esp/v5.0.2/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app C:/Users/rober/Desktop/Provjera/veml7700_test/build/partition_table/partition-table.bin C:/Users/rober/Desktop/Provjera/veml7700_test/build/veml7700_test.bin"
+veml7700_test.bin binary size 0x31b20 bytes. Smallest app partition is 0x100000 bytes. 0xce4e0 bytes (81%) free.
