@@ -1,2 +1,5 @@
 # Tolkon
-WES (Workshop on Embedded Systems) Hackathon 2024./2025.
+Jakov Begović
+Petar Dundara
+Sven Sekulić
+Robert Vitaliani

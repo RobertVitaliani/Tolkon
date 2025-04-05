@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/Sven/Desktop/Tolkon/Postavljanje/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/Users/rober/Desktop/Tolkon/Sven/Postavljanje/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
